@@ -50,7 +50,7 @@ gulp.task('scripts', ['clean'], function() {
     }))
     .pipe(gulp.dest('dist'))
     .pipe(uglify({preserveComments: 'some'}))
-    .pipe(rename({ext:'.min.js'}))
+    .pipe(rename('angular-ls-settings.min.js'))
     .pipe(gulp.dest('dist'));
 
 });
