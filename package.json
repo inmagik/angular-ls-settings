@@ -1,0 +1,10 @@
+{
+  "name" : "angular-ls-settings",
+  "description" : "Application settings stored in localstorage for angular js",
+  "author" : "Mauro Bianchi <bianchimro@gmail.com>",
+  "contributors" : [],
+  
+  "repository" : {"type": "git", "url": "git://github.com/inmagik/angular-ls-settings.git"},
+  "main" : "angular-ls-settings.js",
+  "version" : "0.1.0"
+}
