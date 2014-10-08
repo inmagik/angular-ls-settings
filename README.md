@@ -9,3 +9,8 @@ This package provides an easy way to keep user settings for an angylar applicati
 
 
 ### Example template
+
+
+## Contributors
+
+* Mauro Bianchi: bianchimro@gmail.com
