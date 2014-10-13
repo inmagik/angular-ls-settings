@@ -1,3 +1,11 @@
+/*!
+ * angular-ls-settings
+ * 
+ * Version: 0.1.0 - 2014-10-13T15:33:12.326Z
+ * License: 
+ */
+
+
 (function() {
 
     "use strict";
